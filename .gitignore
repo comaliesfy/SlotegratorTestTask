@@ -1,0 +1,10 @@
+
+### IntelliJ IDEA ###
+.idea
+.build
+
+# compiled output
+.target
+
+# Project exclude paths
+/target/

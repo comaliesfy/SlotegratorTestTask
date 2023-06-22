@@ -1,0 +1,110 @@
+[
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao01@gmail.com",
+    "name": "TestAO1",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO1",
+    "username": "TestAO01"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao02@gmail.com",
+    "name": "TestAO2",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO2",
+    "username": "TestAO02"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao03@gmail.com",
+    "name": "TestAO3",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO3",
+    "username": "TestAO03"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao04@gmail.com",
+    "name": "TestAO4",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO4",
+    "username": "TestAO04"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao05@gmail.com",
+    "name": "TestAO5",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO5",
+    "username": "TestAO05"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao06@gmail.com",
+    "name": "TestAO6",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO6",
+    "username": "TestAO06"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao07@gmail.com",
+    "name": "TestAO7",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO7",
+    "username": "TestAO07"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao08@gmail.com",
+    "name": "TestAO8",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO8",
+    "username": "TestAO08"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao09@gmail.com",
+    "name": "TestAO9",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestAO9",
+    "username": "TestAO09"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao10@gmail.com",
+    "name": "TestA10",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestA10",
+    "username": "TestAO10"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao11@gmail.com",
+    "name": "TestA11",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestA11",
+    "username": "TestAO11"
+  },
+  {
+    "currency_code": "USD",
+    "email": "user_test_ao12@gmail.com",
+    "name": "TestA12",
+    "password_change": "string",
+    "password_repeat": "string",
+    "surname": "TestA12",
+    "username": "TestAO12"
+  }
+]
